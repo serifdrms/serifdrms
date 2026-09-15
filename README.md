@@ -88,16 +88,6 @@ Android app consuming a public REST API.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=serifdrms&show_icons=true&theme=default" alt="Ömer's GitHub stats" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=serifdrms" alt="Ömer's GitHub streak" />
-</p>
-
----
-
 ## 📫 Contact
 
 - LinkedIn: *https://www.linkedin.com/in/serifdurmus/*
