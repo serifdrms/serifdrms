@@ -60,7 +60,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎣 avradar
+### 🎣 AvRadar: Balık Av Rehberi
 Location-based fishing conditions app — wind, pressure, sea state and moon phase to recommend the best fishing time windows, with photo-based fish species identification.
 
 **Tech:** Kotlin · Jetpack Compose · Hilt · Retrofit · Room · Open-Meteo Marine API · Gemini API · Google APIs
